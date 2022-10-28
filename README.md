@@ -3,11 +3,11 @@
 
 - 🌱 I’m currently learning **Blockchain, Trading, Machine learning and Deep learning**
 
-- 👯 I’m looking to collaborate on **digital financial project**
+- 👯 I’m looking to collaborate on **digital Accounting and financial project**
 
 - 🤝 I’m looking for help with **writing technical docs**
 
-- 📝 I regularly write articles on [Python, Blockchain, Sql, Finance](Python, Blockchain, Sql, Finance)
+- 📝 I regularly write articles on (Python, Blockchain, Sql, Finance, Accounting)
 
 - 💬 Ask me about **Python, Accounting, and some part of Finance😅**
 
