@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Blockchain, Trading, Machine learning and Deep learning**
 
-- 👯 I’m looking to collaborate on **digital Accounting and financial project**
+- 👯 I’m looking to collaborate on **digital Accounting and Finance project**
 
 - 🤝 I’m looking for help with **writing technical docs**
 
