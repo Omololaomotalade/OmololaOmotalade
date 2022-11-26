@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Omolola Omotalade</h1>
 <h3 align="center">I am passionate about digitalizing Accounting and Finance Functions</h3>
 
-- 🌱 I’m currently learning **Blockchain, Trading, Machine learning, Deep learning, Software engineering(Full stack)**
+- 🌱 I’m currently learning **Blockchain, Trading, Machine learning, Deep learning and Software engineering(Full stack)**
 
 - 👯 I’m looking to collaborate on **digital Accounting and Finance project**
 
