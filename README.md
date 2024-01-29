@@ -7,9 +7,9 @@
 
 - 🤝 I’m looking for help with **writing technical docs**
 
-- 📝 I regularly write articles on (Python, Blockchain, Sql, Finance, Accounting)
+- 📝 I regularly write articles on (Python, Javascript, Sql, Finance, Accounting)
 
-- 💬 Ask me about **Python, Accounting, and some part of Finance😅**
+- 💬 Ask me about **Python, Javascript, Accounting, and some part of Finance😅**
 
 - 📫 How to reach me **omololaomotalade@yahoo.com**
 
