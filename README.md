@@ -1,21 +1,54 @@
-<h1 align="center">Hi 👋, I'm Omolola Omotalade</h1>
-<h3 align="center">I am passionate about digitalizing Accounting and Finance Functions</h3>
+# 👋 Hi, I'm Omolola Omotalade!
 
-- 🌱 I’m currently learning **Software engineering(Full stack)**
+I'm passionate about **digitizing Accounting and Finance functions** by integrating smart, scalable technology solutions. With a strong foundation in finance and an evolving skill set in full-stack software engineering, I’m focused on building tools that improve accuracy, automation, and decision-making in financial systems.
 
-- 👯 I’m looking to collaborate on **digital Accounting and Finance project**
+---
 
-- 🤝 I’m looking for help with **writing technical docs**
+### 🌱 Currently Learning
+- Full-Stack Software Engineering (ALX)
+- Automation Testing (Playwright, Cypress)
+- API & Backend Integration
 
-- 📝 I regularly write articles on (Python, Javascript, Sql, Finance, Accounting)
+---
 
-- 💬 Ask me about **Python, Javascript, Accounting, and some part of Finance😅**
+### 🤝 Open to Collaborations
+- Digital Accounting & Finance projects
+- QA/Test Automation for fintech apps
+- Writing technical documentation
 
-- 📫 How to reach me **omololaomotalade@yahoo.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+### 📝 I Write About:
+- Python, JavaScript, SQL
+- Finance and Accounting workflows
+- QA best practices and test strategies
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+Check out my articles on [Medium](#) or right here in my repos!
+
+---
+
+### 💬 Ask Me About:
+- Python & JavaScript
+- Test Automation & QA
+- Accounting systems and ERP integration
+
+---
+
+### 📫 How to Reach Me:
+📧 **omololaomotalade@yahoo.com**  
+🔗 [LinkedIn](#) *(Add your profile link)*
+
+---
+
+### 🛠 Languages & Tools:
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=postgresql)
+![Playwright](https://img.shields.io/badge/-Playwright-black?style=flat-square&logo=playwright)
+![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![Jira](https://img.shields.io/badge/-Jira-black?style=flat-square&logo=jira)
+
+---
+
+Thanks for stopping by! 🌟
