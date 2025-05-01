@@ -36,7 +36,7 @@ Check out my articles on [Medium](#) or right here in my repos!
 
 ### 📫 How to Reach Me:
 📧 **omololaomotalade@yahoo.com**  
-🔗 [LinkedIn](#) *(Add your profile link)*
+🔗 [LinkedIn](#) *https://www.linkedin.com/in/omolola-omotalade*
 
 ---
 
