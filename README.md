@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Omolola Omotalade!
 
-I'm passionate about **digitizing Accounting and Finance functions** by integrating smart, scalable technology solutions. With a strong foundation in finance and an evolving skill set in full-stack software engineering, I’m focused on building tools that improve accuracy, automation, and decision-making in financial systems.
+I'm passionate about **digitizing Accounting and Finance functions** by integrating smart, scalable technology solutions. With a strong foundation in accounting and finance and an evolving skill set in full-stack software engineering, I’m focused on building tools that improve accuracy, automation, and decision-making in financial systems.
 
 ---
 
