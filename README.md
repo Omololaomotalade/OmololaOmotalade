@@ -23,8 +23,6 @@ I'm passionate about **digitizing Accounting and Finance functions** by integrat
 - Finance and Accounting workflows
 - QA best practices and test strategies
 
-Check out my articles on [Medium](#) or right here in my repos!
-
 ---
 
 ### 💬 Ask Me About:
