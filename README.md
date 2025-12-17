@@ -34,7 +34,7 @@ I'm passionate about **digitizing Accounting and Finance functions** by integrat
 
 ### 📫 How to Reach Me:
 📧 **omololaomotalade@yahoo.com**  
-🔗 [LinkedIn](#) *https://www.linkedin.com/in/omolola-omotalade*
+🔗 [LinkedIn](#) *https://www.linkedin.com/in/omolola-omotalade-106593150/*
 
 ---
 
